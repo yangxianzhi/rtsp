@@ -7,7 +7,7 @@ import (
 	"io"
 	"log"
 
-	"rtsp"
+	"github.com/yangxianzhi/rtsp"
 )
 
 func init() {
